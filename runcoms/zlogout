@@ -8,6 +8,5 @@
 # Print the message.
 cat <<-EOF
 
-Logged out
 EOF
 
