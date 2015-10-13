@@ -50,7 +50,7 @@ function prompt_sorin_setup {
   zstyle ':prezto:module:editor:info:completing' format '%B%F{red}...%f%b'
   zstyle ':prezto:module:editor:info:keymap:primary' format ' '
   zstyle ':prezto:module:editor:info:keymap:primary:overwrite' format ' %F{red}♺%f'
-  zstyle ':prezto:module:editor:info:keymap:alternate' format ' '
+  zstyle ':prezto:module:editor:info:keymap:alternate' format '!'
 
   # Set git-info parameters.
   zstyle ':prezto:module:git:info' verbose 'yes'
